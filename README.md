@@ -8,6 +8,8 @@ The key characteristic is that you give your learning algorithm examples to lear
 Supervised learning algorithms primarily generate two kinds of results: classification and regression.
 
 ## Regression 
+Aims to learn relationships and correlations between input variables and the one continuous output variable with the scope of predicting that continuous output variable.
 
 
 ## Classificacion
+Aims to learn relationships between input variables and the output variable 
